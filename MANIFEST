@@ -1,0 +1,9 @@
+Build.PL
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Class/Accessor/Chained.pm
+lib/Class/Accessor/Chained/Fast.pm
+t/00compile.t
+t/chained.t
